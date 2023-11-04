@@ -22,5 +22,7 @@ GAME_PATHS = [
     GAME_ROOT + '\\game\\models'
 ]
 
-# GAME JSON PATH:
-GAME_JSON_PATH = GAME_ROOT + '\\game\\assets'
+# COMMANDS:
+GAME_COMMANDS = {
+    9 : 'sair'
+}
